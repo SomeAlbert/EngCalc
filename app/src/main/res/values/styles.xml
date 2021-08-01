@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="opbut">
+        <item name="android:textSize">25sp</item>
+
+
+
+        <item name="backgroundTint">#FF9800</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="NumberButton">
+        <item name="backgroundTint"> #505050 </item>
+
+
+    </style>
+</resources>
